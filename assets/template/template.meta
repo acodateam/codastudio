@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Spring API Template",
+    "description": "Spring API Template",
+    "tags": [
+      "java",
+      "spring"
+    ],
+    "file": "spring_api.json"
+  },
+  {
+    "name": "Spring Batch Template",
+    "description": "Spring Batch Template",
+    "tags": [
+      "java",
+      "spring batch"
+    ],
+    "file": "template2.json"
+  },
+  {
+    "name": "Spring JPA Enity Template",
+    "description": "Spring JPA Enity Template",
+    "tags": [
+      "java",
+      "entity",
+	  "jpa"
+    ],
+    "file": "template3.json"
+  },
+  {
+    "name": "DotNet RestApi Template",
+    "description": "DotNet RestApi Template",
+    "tags": [
+      "dotnet",
+      "api"
+    ],
+    "file": "dotnet_restapi.json"
+  }
+]

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>acoda</title>
+    <link>https://acoda-82b2c.web.app/</link>
+    <description>Recent content on acoda</description>
+    <image>
+      <url>https://acoda-82b2c.web.app/papermod-cover.png</url>
+      <link>https://acoda-82b2c.web.app/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 20 Sep 2021 21:45:44 +0700</lastBuildDate><atom:link href="https://acoda-82b2c.web.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API Design</title>
+      <link>https://acoda-82b2c.web.app/acoda/api-design/</link>
+      <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/acoda/api-design/</guid>
+      <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
+Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+API Management là gì [API Management] cung cấp 1 công cụ design API bằng giao diện thân thiện
+Các tính năng chính:
+  Design API
+  Generate Design
+  Generate Code
+  Generate UT
+  Quick Start Mở app [acoda], chọn project, vào mục [codadevs], chọn [API Management]</description>
+    </item>
+    
+    <item>
+      <title>Generate Datatest</title>
+      <link>https://acoda-82b2c.web.app/acoda/generate-datatest/</link>
+      <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/acoda/generate-datatest/</guid>
+      <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
+Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+Datatest Management là gì? Datatest Management là công cụ quản lý và gen datatest cho database.
+Các tính năng chính:
+ Generate data: data được gen theo cấu trúc của database Generate câu lệnh sql insert Export data dưới dạng excel, csv  Cách sử dụng [Datatest Management] Mở app [acoda], chọn project, vào mục [codadb], chọn [Datatest Management]</description>
+    </item>
+    
+    <item>
+      <title>Generate Spring Jpa Entity</title>
+      <link>https://acoda-82b2c.web.app/acoda/generate-spring-jpa-entity/</link>
+      <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/acoda/generate-spring-jpa-entity/</guid>
+      <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
+Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+Spring JPA Entity Template Spring JPA Entity Template là template được sử dụng để generate entity cho các project sử dụng Spring JPA.
+Tham khảo các template hữu ích khác tại: // TODO
+Tham khảo cách customize template tại: // TODO
+Generate Spring JPA Entity Mở app [acoda], vào mục [codadevs], chọn [Template Management]</description>
+    </item>
+    
+    <item>
+      <title>SQL Management</title>
+      <link>https://acoda-82b2c.web.app/acoda/sql-management/</link>
+      <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/acoda/sql-management/</guid>
+      <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
+Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+SQL Management là gì [SQL Management] cung cấp 1 công cụ một số tiện ích cho việc design SQL
+Các tính năng chính:
+  Format SQL
+  Generate Code
+  Quick Start Mở app [acoda], chọn project, vào mục [codadevs], chọn [SQL Management]</description>
+    </item>
+    
+    <item>
+      <title>Installing</title>
+      <link>https://acoda-82b2c.web.app/acoda/installing/</link>
+      <pubDate>Mon, 20 Sep 2021 21:32:10 +0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/acoda/installing/</guid>
+      <description>Download acoda tại link</description>
+    </item>
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://acoda-82b2c.web.app/acoda/quick-start/</link>
+      <pubDate>Mon, 20 Sep 2021 21:31:50 +0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/acoda/quick-start/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://acoda-82b2c.web.app/posts/my-first-post/</link>
+      <pubDate>Tue, 17 Aug 2021 05:40:14 -0700</pubDate>
+      
+      <guid>https://acoda-82b2c.web.app/posts/my-first-post/</guid>
+      <description>demo</description>
+    </item>
+    
+  </channel>
+</rss>
