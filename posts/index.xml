@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on acoda</title>
-    <link>https://acoda-82b2c.web.app/posts/</link>
+    <link>https://acodateam.github.io/codastudio/posts/</link>
     <description>Recent content in Posts on acoda</description>
     <image>
-      <url>https://acoda-82b2c.web.app/papermod-cover.png</url>
-      <link>https://acoda-82b2c.web.app/papermod-cover.png</link>
+      <url>https://acodateam.github.io/codastudio/papermod-cover.png</url>
+      <link>https://acodateam.github.io/codastudio/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Aug 2021 05:40:14 -0700</lastBuildDate><atom:link href="https://acoda-82b2c.web.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Aug 2021 05:40:14 -0700</lastBuildDate><atom:link href="https://acodateam.github.io/codastudio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://acoda-82b2c.web.app/posts/my-first-post/</link>
+      <link>https://acodateam.github.io/codastudio/posts/my-first-post/</link>
       <pubDate>Tue, 17 Aug 2021 05:40:14 -0700</pubDate>
       
-      <guid>https://acoda-82b2c.web.app/posts/my-first-post/</guid>
+      <guid>https://acodateam.github.io/codastudio/posts/my-first-post/</guid>
       <description>demo</description>
     </item>
     

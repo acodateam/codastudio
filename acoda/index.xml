@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Acodas on acoda</title>
-    <link>https://acoda-82b2c.web.app/acoda/</link>
+    <link>https://acodateam.github.io/codastudio/acoda/</link>
     <description>Recent content in Acodas on acoda</description>
     <image>
-      <url>https://acoda-82b2c.web.app/papermod-cover.png</url>
-      <link>https://acoda-82b2c.web.app/papermod-cover.png</link>
+      <url>https://acodateam.github.io/codastudio/papermod-cover.png</url>
+      <link>https://acodateam.github.io/codastudio/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Sep 2021 21:45:44 +0700</lastBuildDate><atom:link href="https://acoda-82b2c.web.app/acoda/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 21:45:44 +0700</lastBuildDate><atom:link href="https://acodateam.github.io/codastudio/acoda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API Design</title>
-      <link>https://acoda-82b2c.web.app/acoda/api-design/</link>
+      <link>https://acodateam.github.io/codastudio/acoda/api-design/</link>
       <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
       
-      <guid>https://acoda-82b2c.web.app/acoda/api-design/</guid>
+      <guid>https://acodateam.github.io/codastudio/acoda/api-design/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
 Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
 API Management là gì [API Management] cung cấp 1 công cụ design API bằng giao diện thân thiện
@@ -29,10 +29,10 @@ Các tính năng chính:
     
     <item>
       <title>Generate Datatest</title>
-      <link>https://acoda-82b2c.web.app/acoda/generate-datatest/</link>
+      <link>https://acodateam.github.io/codastudio/acoda/generate-datatest/</link>
       <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
       
-      <guid>https://acoda-82b2c.web.app/acoda/generate-datatest/</guid>
+      <guid>https://acodateam.github.io/codastudio/acoda/generate-datatest/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
 Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
 Datatest Management là gì? Datatest Management là công cụ quản lý và gen datatest cho database.
@@ -42,10 +42,10 @@ Các tính năng chính:
     
     <item>
       <title>Generate Spring Jpa Entity</title>
-      <link>https://acoda-82b2c.web.app/acoda/generate-spring-jpa-entity/</link>
+      <link>https://acodateam.github.io/codastudio/acoda/generate-spring-jpa-entity/</link>
       <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
       
-      <guid>https://acoda-82b2c.web.app/acoda/generate-spring-jpa-entity/</guid>
+      <guid>https://acodateam.github.io/codastudio/acoda/generate-spring-jpa-entity/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
 Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
 Spring JPA Entity Template Spring JPA Entity Template là template được sử dụng để generate entity cho các project sử dụng Spring JPA.
@@ -56,10 +56,10 @@ Generate Spring JPA Entity Mở app [acoda], vào mục [codadevs], chọn [Temp
     
     <item>
       <title>SQL Management</title>
-      <link>https://acoda-82b2c.web.app/acoda/sql-management/</link>
+      <link>https://acodateam.github.io/codastudio/acoda/sql-management/</link>
       <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
       
-      <guid>https://acoda-82b2c.web.app/acoda/sql-management/</guid>
+      <guid>https://acodateam.github.io/codastudio/acoda/sql-management/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
 Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
 SQL Management là gì [SQL Management] cung cấp 1 công cụ một số tiện ích cho việc design SQL
@@ -71,20 +71,11 @@ Các tính năng chính:
     
     <item>
       <title>Installing</title>
-      <link>https://acoda-82b2c.web.app/acoda/installing/</link>
+      <link>https://acodateam.github.io/codastudio/acoda/installing/</link>
       <pubDate>Mon, 20 Sep 2021 21:32:10 +0700</pubDate>
       
-      <guid>https://acoda-82b2c.web.app/acoda/installing/</guid>
-      <description>Download acoda tại link</description>
-    </item>
-    
-    <item>
-      <title>Quick Start</title>
-      <link>https://acoda-82b2c.web.app/acoda/quick-start/</link>
-      <pubDate>Mon, 20 Sep 2021 21:31:50 +0700</pubDate>
-      
-      <guid>https://acoda-82b2c.web.app/acoda/quick-start/</guid>
-      <description></description>
+      <guid>https://acodateam.github.io/codastudio/acoda/installing/</guid>
+      <description>Download acoda tại link: https://acoda-82b2c.web.app/download/codastudio.7z</description>
     </item>
     
   </channel>

@@ -2,40 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://acoda-82b2c.web.app/</loc>
+    <loc>https://acodateam.github.io/codastudio/</loc>
     <lastmod>2021-09-20T21:45:44+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/</loc>
+    <loc>https://acodateam.github.io/codastudio/acoda/</loc>
     <lastmod>2021-09-20T21:45:44+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/api-design/</loc>
+    <loc>https://acodateam.github.io/codastudio/acoda/api-design/</loc>
     <lastmod>2021-09-20T21:45:44+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/generate-datatest/</loc>
+    <loc>https://acodateam.github.io/codastudio/acoda/generate-datatest/</loc>
     <lastmod>2021-09-20T21:45:44+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/generate-spring-jpa-entity/</loc>
+    <loc>https://acodateam.github.io/codastudio/acoda/generate-spring-jpa-entity/</loc>
     <lastmod>2021-09-20T21:45:44+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/sql-management/</loc>
+    <loc>https://acodateam.github.io/codastudio/acoda/sql-management/</loc>
     <lastmod>2021-09-20T21:45:44+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/installing/</loc>
+    <loc>https://acodateam.github.io/codastudio/acoda/installing/</loc>
     <lastmod>2021-09-20T21:32:10+07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/acoda/quick-start/</loc>
-    <lastmod>2021-09-20T21:31:50+07:00</lastmod>
-  </url><url>
-    <loc>https://acoda-82b2c.web.app/posts/my-first-post/</loc>
+    <loc>https://acodateam.github.io/codastudio/posts/my-first-post/</loc>
     <lastmod>2021-08-17T05:40:14-07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/posts/</loc>
+    <loc>https://acodateam.github.io/codastudio/posts/</loc>
     <lastmod>2021-08-17T05:40:14-07:00</lastmod>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/categories/</loc>
+    <loc>https://acodateam.github.io/codastudio/categories/</loc>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/series/</loc>
+    <loc>https://acodateam.github.io/codastudio/series/</loc>
   </url><url>
-    <loc>https://acoda-82b2c.web.app/tags/</loc>
+    <loc>https://acodateam.github.io/codastudio/tags/</loc>
   </url>
 </urlset>
