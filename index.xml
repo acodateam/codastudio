@@ -9,7 +9,16 @@
       <link>https://acodateam.github.io/codastudio/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 20 Sep 2021 21:45:44 +0700</lastBuildDate><atom:link href="https://acodateam.github.io/codastudio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Oct 2021 21:32:10 +0700</lastBuildDate><atom:link href="https://acodateam.github.io/codastudio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Start</title>
+      <link>https://acodateam.github.io/codastudio/acoda/quick-start/</link>
+      <pubDate>Wed, 27 Oct 2021 21:32:10 +0700</pubDate>
+      
+      <guid>https://acodateam.github.io/codastudio/acoda/quick-start/</guid>
+      <description> Installing | acoda DDL Management | acoda Generate Datatest | acoda SQL Management | acoda Generate Spring Jpa Entity | acoda API Design | acoda Tool Review Source | acoda  </description>
+    </item>
+    
     <item>
       <title>API Design</title>
       <link>https://acodateam.github.io/codastudio/acoda/api-design/</link>
@@ -17,7 +26,7 @@
       
       <guid>https://acodateam.github.io/codastudio/acoda/api-design/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
-Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+Cách sử dụng [DDL Management] để quản lý table layout tham khảo tại: DDL Management | acoda
 API Management là gì [API Management] cung cấp 1 công cụ design API bằng giao diện thân thiện
 Các tính năng chính:
   Design API
@@ -46,7 +55,7 @@ Click button [Import], popup chọn file hiện ra, acoda support import thông 
       
       <guid>https://acodateam.github.io/codastudio/acoda/generate-datatest/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
-Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+Cách sử dụng [DDL Management] để quản lý table layout tham khảo tại: DDL Management | acoda
 Datatest Management là gì? Datatest Management là công cụ quản lý và gen datatest cho database.
 Các tính năng chính:
  Generate data: data được gen theo cấu trúc của database Generate câu lệnh sql insert Export data dưới dạng excel, csv  Cách sử dụng [Datatest Management] Mở app [acoda], chọn project, vào mục [codadb], chọn [Datatest Management]</description>
@@ -59,11 +68,10 @@ Các tính năng chính:
       
       <guid>https://acodateam.github.io/codastudio/acoda/generate-spring-jpa-entity/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
-Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+Cách sử dụng [DDL Management] để quản lý table layout tham khảo tại: DDL Management | acoda
 Spring JPA Entity Template Spring JPA Entity Template là template được sử dụng để generate entity cho các project sử dụng Spring JPA.
 Tham khảo các template hữu ích khác tại: // TODO
-Tham khảo cách customize template tại: // TODO
-Generate Spring JPA Entity Mở app [acoda], vào mục [codadevs], chọn [Template Management]</description>
+Tham khảo cách customize template tại: // TODO</description>
     </item>
     
     <item>
@@ -73,7 +81,7 @@ Generate Spring JPA Entity Mở app [acoda], vào mục [codadevs], chọn [Temp
       
       <guid>https://acodateam.github.io/codastudio/acoda/sql-management/</guid>
       <description>Điều kiện Table layout phải được import và quản lý bằng DDL Management.
-Cách sử dụng DDL Management để quản lý table layout tham khảo tại: // TODO
+Cách sử dụng [DDL Management] để quản lý table layout tham khảo tại: DDL Management | acoda
 SQL Management là gì [SQL Management] cung cấp 1 công cụ một số tiện ích cho việc design SQL
 Các tính năng chính:
   Format SQL
