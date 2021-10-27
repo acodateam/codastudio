@@ -28,6 +28,18 @@ Các tính năng chính:
     </item>
     
     <item>
+      <title>DDL Management</title>
+      <link>https://acodateam.github.io/codastudio/acoda/ddl-management/</link>
+      <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
+      
+      <guid>https://acodateam.github.io/codastudio/acoda/ddl-management/</guid>
+      <description>DDL Management là gì [DDL Management] lưu trữ các thông tin database và làm input cho các chức năng khác của acoda như: gen data test, design api, gen code,&amp;hellip;
+Chức năng import Mở app [acoda], chọn project, vào mục [codadb], chọn [DDL Management]
+Click button [Import], popup chọn file hiện ra, acoda support import thông tin database từ các nguồn sau:
+ CSV Excel  Định dạng CSV File csv bắt buộc phải có thông tin các cột sau:</description>
+    </item>
+    
+    <item>
       <title>Generate Datatest</title>
       <link>https://acodateam.github.io/codastudio/acoda/generate-datatest/</link>
       <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
@@ -70,12 +82,28 @@ Các tính năng chính:
     </item>
     
     <item>
+      <title>Tool Review Source</title>
+      <link>https://acodateam.github.io/codastudio/acoda/tool-review-source/</link>
+      <pubDate>Mon, 20 Sep 2021 21:45:44 +0700</pubDate>
+      
+      <guid>https://acodateam.github.io/codastudio/acoda/tool-review-source/</guid>
+      <description>Tool Review Source là gì [Tool Review Source] là cung cấp một số tiện ích giúp việc review source được tiện lợi và dễ dàng hơn.
+Quick Start Mở app [acoda], chọn project, vào mục [tools], chọn [Tools Review Source]
+Click button [New] và chọn [Create folder] để tạo folder, chọn [Create file] để tạo mới 1 workspace mới.
+Click button [Open Folder] và chọn folder source.
+Tool sẽ tự động xác định nhánh git và git commit.</description>
+    </item>
+    
+    <item>
       <title>Installing</title>
       <link>https://acodateam.github.io/codastudio/acoda/installing/</link>
       <pubDate>Mon, 20 Sep 2021 21:32:10 +0700</pubDate>
       
       <guid>https://acodateam.github.io/codastudio/acoda/installing/</guid>
-      <description>Download acoda tại link: https://github.com/acodateam/codastudio/releases/download/v0.1/codastudio.7z</description>
+      <description>Download acoda tại link: https://github.com/acodateam/codastudio/releases/download/latest/codastudio.7z
+Giải nén
+Chạy file acoda.exe
+User demo: demo@fsoft.com.vn password: demo</description>
     </item>
     
   </channel>
